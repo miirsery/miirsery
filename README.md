@@ -3,7 +3,7 @@
 
 ![090](https://user-images.githubusercontent.com/57665901/141291774-033b4d5c-f39b-47e0-87af-1e7c6283446d.gif)
 
-# 💫 About Me:
+## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> About me
 I'm frontend developder<br>Vue / Nuxt<br>React / Next<br>MUI / Element-plus<br>
 
 
